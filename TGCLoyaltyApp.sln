@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCLoyaltyApp.Web", "TGCLoyaltyApp.Web\TGCLoyaltyApp.Web.csproj", "{8CE2E1F3-1129-468D-BC26-DF116779FF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCLoyaltyApp.Core", "TGCLoyaltyApp.Core\TGCLoyaltyApp.Core.csproj", "{88DA9C19-FAE5-4427-977D-1E3D1DE615D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCLoyaltyApp.Entities", "TGCLoyaltyApp.Entities\TGCLoyaltyApp.Entities.csproj", "{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DABA5082-2057-4D12-8EB7-2E280A360282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{CD2B40FF-8A80-422E-BEC9-E6381A5D6B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGCLoyaltyApp.Tests", "TGCLoyaltyApp.Tests\TGCLoyaltyApp.Tests.csproj", "{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE2E1F3-1129-468D-BC26-DF116779FF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE2E1F3-1129-468D-BC26-DF116779FF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE2E1F3-1129-468D-BC26-DF116779FF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE2E1F3-1129-468D-BC26-DF116779FF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DA9C19-FAE5-4427-977D-1E3D1DE615D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DA9C19-FAE5-4427-977D-1E3D1DE615D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DA9C19-FAE5-4427-977D-1E3D1DE615D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DA9C19-FAE5-4427-977D-1E3D1DE615D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88DA9C19-FAE5-4427-977D-1E3D1DE615D5} = {CD2B40FF-8A80-422E-BEC9-E6381A5D6B88}
+		{323C2CAB-B48F-4C0E-8D95-52DFFF2C1CFA} = {CD2B40FF-8A80-422E-BEC9-E6381A5D6B88}
+		{8CE2E1F3-1129-468D-BC26-DF116779FF46} = {CD2B40FF-8A80-422E-BEC9-E6381A5D6B88}
+		{B80A9DC3-1843-49D4-A3B8-B58674AFAB9B} = {DABA5082-2057-4D12-8EB7-2E280A360282}
+	EndGlobalSection
+EndGlobal
