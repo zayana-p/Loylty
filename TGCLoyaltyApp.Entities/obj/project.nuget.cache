@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyYtpgJjPvfpOieiquCZ9VPbTpHwJ/0xQIvpfIVs8jS3K8FRwxWDyRm3WLuFp3nLmze2VRAvdWuV2olt6g31Pg==",
+  "success": true,
+  "projectFilePath": "D:\\Project area\\ThomsunLoyaltyApp\\api\\TGCLoyaltyApp.Entities\\TGCLoyaltyApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.8\\microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.8\\microsoft.entityframeworkcore.relational.7.0.8.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\LijuVKuriakose\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

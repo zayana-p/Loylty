@@ -1,0 +1,12 @@
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\bin\Debug\net7.0\TGCLoyaltyApp.Entities.deps.json
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\bin\Debug\net7.0\TGCLoyaltyApp.Entities.dll
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\bin\Debug\net7.0\TGCLoyaltyApp.Entities.pdb
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.csproj.AssemblyReference.cache
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.AssemblyInfoInputs.cache
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.AssemblyInfo.cs
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.csproj.CoreCompileInputs.cache
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.dll
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\refint\TGCLoyaltyApp.Entities.dll
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\TGCLoyaltyApp.Entities.pdb
+D:\Project area\ThomsunLoyaltyApp\api\TGCLoyaltyApp.Entities\obj\Debug\net7.0\ref\TGCLoyaltyApp.Entities.dll
