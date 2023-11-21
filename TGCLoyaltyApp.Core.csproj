@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TGCLoyaltyApp.Entities\TGCLoyaltyApp.Entities.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="ViewModels\" />
+    <None Remove="Components\" />
+    <None Remove="Services\Abstracts\" />
+    <None Remove="ViewModels\Abstracts\" />
+    <None Remove="ViewModels\Customers\" />
+    <None Remove="Services\Customers\" />
+    <None Remove="Helpers\" />
+    <None Remove="ViewModels\Users\" />
+    <None Remove="Services\Users\" />
+    <None Remove="Services\Installer\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Firebase\" />
+    <Folder Include="ViewModels\Abstracts\" />
+    <Folder Include="Services\Customers\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Services\Users\" />
+    <Folder Include="Services\Installer\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Azure.Core" Version="1.33.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.16.0" />
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="FirebaseAdmin" Version="2.3.0" />
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="MimeKit" Version="4.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.8" />
+  </ItemGroup>
+</Project>
